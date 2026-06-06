@@ -151,17 +151,14 @@ Only Chain E (protein chain) was selected for valid comparative analysis.
 - Ren J et al. Structure of HIV-2 RT. PNAS. 2002
 - Kohlstaedt LA et al. Crystal structure of HIV-1 RT. Science. 1992
 - ---
-
-## Results Figures
-
 ### Figure 16 — PyMOL Structural Alignment Output Showing RMSD Value
-![RMSD Output](figure16_pymol_rmsd.png)
+![RMSD Output](figure16_pymol_rmsd.png.png)
 
 ### Figure 17 — Superposition of HIV-1 RT and HIV-2 RT Structures
-![Structural Superposition](figure17_pymol_superposition.png)
+![Structural Superposition](figure17_pymol_superposition.png.png)
 
 ### Figure 20 — MEGA Pairwise Distance Matrix
-![Pairwise Distance](figure20_mega_pairwise_distance.png)
+![Pairwise Distance](figure20_mega_pairwise_distance.png.png)
 
 ### Figure 21 — EMBOSS Alignment Statistics
-![EMBOSS Statistics](figure21_emboss_alignment_stats.png)
+![EMBOSS Statistics](figure21_emboss_alignment_stats.png.png)
